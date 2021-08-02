@@ -1,3 +1,6 @@
+* OBS: Deploy não funciona.
+
+
 - Descrição e Objetivos.
 
 API REST é como um guia de boas práticas, uma vez que é um modelo de arquitetura de software que define uma série de requisitos para que as APIs sejam desenvolvidas.
