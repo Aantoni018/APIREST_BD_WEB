@@ -6,31 +6,31 @@ Sendo assim, em outras palavras, é uma base para a construção de APIs que con
 - Como replicar o projeto.
 
 * Criar o arquivo package
-npm init
+--> npm init
 
 * Gerencia as requisições, rotas e URLs, entre outra funcionalidades
-npm install express
+--> npm install express
 
 * Instalar o módulo para reiniciar o servidor sempre que houver alteração no código fonte
-npm install -D nodemon
+--> npm install -D nodemon
 
 * Rodar o projeto usando o nodemon 
-nodemon app.js
+--> nodemon app.js
  
 * Baixe o software do MongoDB marcando a opção "mongocompass", será feitos teste no banco de dados.
 
 * Instalação do MongoDB no projeto
-npm install --save mongodb
+--> npm install --save mongodb
 
 * Instalação do Mongoose (Traduz os dados do banco de dados para objetos JavaScript para que possam ser utilizados por sua aplicação).
-npm install --save mongoose
+--> npm install --save mongoose
 
 - Passos para executar o projeto
 
 * Instalar todas as dependencias indicada pelo package.json
-npm install
+--> npm install
 
 * Rodar o projeto usando o nodemon 
-nodemon servidor.js
+--> nodemon servidor.js
 
 * Use o insomnia para testar as requisições e interagir com o banco.
